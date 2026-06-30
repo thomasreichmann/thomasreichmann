@@ -5,7 +5,7 @@ Right now I'm a senior full-stack engineer at **Skip**, shipping product and rev
 **Live projects**
 
 - [**Nexus**](https://nexus.thomasar.dev) — long-term file storage on S3 Glacier, built solo end to end: an async restore flow, Stripe billing, and a coverage gate that won't let a page ship untested. [Code »](https://github.com/thomasreichmann/nexus)
-- [**thomasar-cv**](https://cv.thomasar.dev) — my résumé kept as structured data: a live-preview editor and ATS-safe PDF export from one render definition. The design decisions are written up as [ADRs](https://github.com/thomasreichmann/thomasar-cv/tree/main/docs/decisions). [Code »](https://github.com/thomasreichmann/thomasar-cv)
+- [**thomasar-cv**](https://cv.thomasar.dev) — a tool I built for maintaining a résumé as structured data: a live-preview editor and ATS-safe PDF export from one render definition. The design decisions are written up as [ADRs](https://github.com/thomasreichmann/thomasar-cv/tree/main/docs/decisions). [Code »](https://github.com/thomasreichmann/thomasar-cv)
 
 I got into this writing Discord and Twitch bots for gaming communities, and a few are still around here. Currently finishing a software engineering degree at FIAP (December 2027) alongside the full-time work.
 
