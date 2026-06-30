@@ -1,6 +1,6 @@
 I've been building software since I was a teenager writing Discord and Twitch bots so my gaming friends and I had better things to mess with. A few are still up here. Eight years on, the work got more serious but the instinct didn't change.
 
-These days I'm a senior full-stack engineer: TypeScript, Next.js, and AWS most days, Java/Kotlin and Spring when the work needs it. What I actually care about is the unglamorous half nobody puts in a demo — billing that reconciles, infra that holds, the logging that tells you at 3am whether any of it works. I'd rather own that than the pretty parts.
+These days I'm a senior full-stack engineer: TypeScript, Next.js, and AWS most days, Java/Kotlin and Spring when the work needs it. I like owning the unglamorous parts: billing, infra, and the observability that tells you whether any of it is actually working.
 
 Right now I'm at **Skip**, shipping product and reviewing across the team in a private monorepo, which is where most of my green squares quietly live. Before that, Cohere Health, and 2.5 years at unike.TECH going from junior to senior on event-driven AWS systems.
 
